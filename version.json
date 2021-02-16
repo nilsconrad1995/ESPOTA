@@ -3,23 +3,13 @@
 	   {
                 "software": "v2.1.1",
                 "hardware": [
-		   "v2.0",                    
-		   "v1.3",
-                    "v1.2"
+		   "v2.0"
                 ]
             },
 	   {
-                "software": "v0.1.2",
+                "software": "v2.1.0",
                 "hardware": [
-                    "v1.3",
-                    "v1.2"
-                ]
-            },
-            {
-                "software": "v0.1.1",
-                "hardware": [
-                    "v1.3",
-                    "v1.2"
+		   "v2.0"
                 ]
             },
             {
