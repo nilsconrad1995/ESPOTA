@@ -1,0 +1,811 @@
+*************************** START ****************************
+START TIME: 202107121103
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600200
+Update flash status done!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.6 seconds (effective 533.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 19 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121104
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+set STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 21 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202107121106
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 1638.4 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.6 seconds (effective 534.8 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121124
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+com closed
+Use time: 60 s
+Download result: FAIL
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121125
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+set STOP FLG: Trueset STOP FLG: Trueset STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 15 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202107121125
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 536.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121126
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 537.4 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121127
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.6 seconds (effective 534.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 21 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121130
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121134
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121135
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 1638.4 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.6 seconds (effective 534.3 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121140
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 3071.9 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121141
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+com closed
+Use time: 75 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121200
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 3072.0 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.5 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121201
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 3510.9 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 28 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121202
+CONNECT BAUD: 115200
+*************************** START ****************************
+START TIME: 202107121202
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 3072.0 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 15.5 seconds (effective 535.9 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 18 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121203
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 1293.5 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 53.2 seconds (effective 156.4 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 58 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121205
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+set STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 26 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202107121205
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 4096.0 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 10.5 seconds (effective 793.6 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121212
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+set STOP FLG: Trueset STOP FLG: Truecom closed
+Use time: 23 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202107121212
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 8192 bytes (47 compressed) at 0x00000000 in 0.0 seconds (effective 16384.2 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 2730.6 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 10.4 seconds (effective 800.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 13 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121213
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 8192 bytes (47 compressed) at 0x00000000 in 0.0 seconds (effective 13107.5 kbit/s)...
+Hash of data verified.Wrote 17104 bytes (11193 compressed) at 0x00001000 in 0.2 seconds (effective 882.8 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 3072.0 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 10.5 seconds (effective 793.7 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 14 s
+Download result: PASS
+*************************** END ****************************
+
+*************************** START ****************************
+START TIME: 202107121213
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+set STOP FLG: Truecom closed
+Use time: 12 s
+Download result: FAIL
+*************************** END ****************************
+
+set state: ESP_DL_STOP
+*************************** START ****************************
+START TIME: 202107121213
+CONNECT BAUD: 115200
+com port closed
+set state: ESP_DL_SYNC
+serial port opened
+-----------
+baud:115200
+root baud:115200
+-------------
+===============BAUD : 115200===============CALL DEVICE SYNC
+connecting...
+chip sync ok
+mac l: 0xc647557cL
+mac h: 0x60943c
+crc_cal: 96
+crc_read: 96
+crc_test: 0
+ESP32 MAC CRC OK
+get mac res: 1
+get flash id : 0x00184020
+manufacturer_id: 0x20
+device_id: 0x4018
+SET FLASH PARAMS
+Find xmc flash and status:0x600380
+flash status reg already update!
+Wrote 8192 bytes (47 compressed) at 0x00000000 in 0.0 seconds (effective 16384.2 kbit/s)...
+Hash of data verified.Wrote 17104 bytes (11193 compressed) at 0x00001000 in 0.2 seconds (effective 866.0 kbit/s)...
+Hash of data verified.Wrote 3072 bytes (129 compressed) at 0x00008000 in 0.0 seconds (effective 2730.7 kbit/s)...
+Hash of data verified.Wrote 1040256 bytes (599164 compressed) at 0x00010000 in 10.5 seconds (effective 795.2 kbit/s)...
+Hash of data verified.
+Leaving...
+com closed
+Use time: 16 s
+Download result: PASS
+*************************** END ****************************
+
